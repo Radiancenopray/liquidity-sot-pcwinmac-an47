@@ -1,4 +1,4 @@
-# 
+# 免费 liquidity sniper bot 模板 Mac OS版 | 开源 liquidity sniper bot 模板 PC Windows版。集成 滑点控制 和 投资组合管理，跨平台性能最大化。
 
 
 
